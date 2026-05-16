@@ -1,0 +1,6 @@
+{
+  "name": "QR Grade Pro",
+  "description": "Số hóa việc kiểm tra trắc nghiệm bằng quét thẻ QR, tích hợp Gemini AI để phân tích kết quả học tập.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
